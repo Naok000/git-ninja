@@ -1,3 +1,3 @@
 # git-ninja
 
-忍者Codeの練習問題
+忍者Codeのgit練習問題用のリポジトリ
